@@ -1,4 +1,11 @@
-## Hi there 👋
+## About me
+
+- 🔭 I’m currently working on gathering materials to build a cyberdeck.
+- 🌱 I’m currently learning how to solder.
+- 👯 I’m looking to collaborate on anything anyone is willing to teach me.
+- 🤔 I’m looking for help with funding to buy a Flipper Zero.
+- ⚡ Fun fact: I love mushroom foraging!
+
 
 <!--
 **raccooncastle/raccooncastle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
