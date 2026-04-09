@@ -1,10 +1,10 @@
 ## About me
 
-- 🔭 I’m currently working on gathering materials to build a cyberdeck.
-- 🌱 I’m currently learning how to solder.
-- 👯 I’m looking to collaborate on anything anyone is willing to teach me.
-- 🤔 I’m looking for help with funding to buy a Flipper Zero.
-- ⚡ Fun fact: I love mushroom foraging!
+- 📟 I’m currently working on gathering materials to build a cyberdeck.
+- 🧠 I’m currently learning how to solder.
+- 🧑‍🤝‍🧑 I’m looking to collaborate on anything anyone is willing to teach me.
+- 💲 I’m currently saving up to buy a Flipper Zero.
+- 🍄 Fun fact: I love mushroom foraging!
 
 
 <!--
