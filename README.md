@@ -1,10 +1,6 @@
-## About me
+# About me
 <p>
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/736x/66/6f/05/666f052a1ac290c64ce74fe729e922a7.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/1200x/f2/a3/ba/f2a3ba666b1cf85aabe40c925143b029.jpg">
- <img alt="Image of cartoon white flowers with a green background" src="https://i.pinimg.com/1200x/f2/a3/ba/f2a3ba666b1cf85aabe40c925143b029.jpg">
-<picture>
+<img width="1050" height="350" src="https://i.pinimg.com/1200x/f2/a3/ba/f2a3ba666b1cf85aabe40c925143b029.jpg">
 </p>
 <br>
 
