@@ -1,11 +1,10 @@
-# About me
+# Hello World!
 <p>
 <img width="1050" height="350" src="https://i.pinimg.com/1200x/f2/a3/ba/f2a3ba666b1cf85aabe40c925143b029.jpg">
 </p>
-<br>
 
 
-  
+## About me
 - 📟 I’m currently working on gathering materials to build a cyberdeck.
 - ✅ I’m currently learning how to solder.
 - 🧑‍🏫 I’m looking to collaborate on anything anyone is willing to teach me.
