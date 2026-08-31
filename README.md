@@ -5,10 +5,10 @@
 
 ## About me
 -🧑‍🏫 I'm currently pursing my associates degree in Cybersecurity.
--🍀I'm considering a career in Cybercrime Investigation.
--✅I'm actively seeking an internship or entry-level position as a Private Investigator.
+-🍀 I'm considering a career in Cybercrime Investigation.
+-✅ I'm actively seeking an internship or entry-level position as a Private Investigator.
 -📟 I am interested in learning how to solder and build cyberdecks.
--💲I really want a Flipper Zero for Christmas.
+-💲 I really want a Flipper Zero for Christmas.
 -🌲 Fun fact: I love mushroom foraging!
 
 <!--
