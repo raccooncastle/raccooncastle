@@ -4,12 +4,12 @@
 </p>
 
 ## About me
--🧑‍🏫 I'm currently pursing my associates degree in Cybersecurity.
--🍀 I'm considering a career in Cybercrime Investigation.
--✅ I'm actively seeking an internship or entry-level position as a Private Investigator.
--📟 I am interested in learning how to solder and build cyberdecks.
--💲 I really want a Flipper Zero for Christmas.
--🌲 Fun fact: I love mushroom foraging!
+-🧑‍🏫 I'm currently pursing my associates degree in Cybersecurity. <br>
+-🍀 I'm considering a career in Cybercrime Investigation. <br>
+-✅ I'm actively seeking an internship or entry-level position as a Private Investigator.<br>
+-📟 I am interested in learning how to solder and build cyberdecks.<br>
+-💲 I really want a Flipper Zero for Christmas.<br>
+-🌲 Fun fact: I love mushroom foraging!<br>
 
 <!--
 **raccooncastle/raccooncastle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
